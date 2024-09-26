@@ -1,0 +1,2 @@
+# DIAGNÓSTICO MULTICLASSE DOS ESTÁGIOS DA DOENÇA DE ALZHEIMER BASEADO EM DADOS MULTIMODAIS
+Este repositório contém o código e os dados utilizados para a implementação do trabalho "DIAGNÓSTICO MULTICLASSE DOS ESTÁGIOS DA DOENÇA DE ALZHEIMER BASEADO EM DADOS MULTIMODAIS". O objetivo principal deste projeto é desenvolver um sistema de classificação para diferenciar entre estágios e condições relacionadas à doença de Alzheimer, utilizando dados de múltiplas fontes (multimodais).
